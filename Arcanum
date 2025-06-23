@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>متجري للكتب الرقمية | Payhip</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background: #f7f7f7; color: #333; }
+    header { text-align: center; padding: 30px 0; }
+    h1 { color: #0056b3; }
+    .book { background: #fff; padding: 15px; margin: 15px auto; max-width: 600px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);}
+    a.buy-btn { background: #28a745; color: white; padding: 12px 20px; text-decoration: none; border-radius: 5px; }
+    a.buy-btn:hover { background: #218838; }
+    footer { text-align: center; margin-top: 40px; font-size: 0.9em; color: #666; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>مرحباً بكم في متجري للكتب الرقمية حول التداول</h1>
+    <p>أفضل كتب واستراتيجيات SMC و ICT لاحتراف التداول الإلكتروني</p>
+  </header>
+
+  <section class="book">
+    <h2>كتاب التداول المتقدم SMC</h2>
+    <p>تعلم استراتيجيات السوق الحديثة بأسلوب واضح ومفصل.</p>
+    <a href="https://payhip.com/yourproductlink" class="buy-btn" target="_blank" rel="noopener">اشترِ الآن من Payhip</a>
+  </section>
+
+  <section class="book">
+    <h2>كتاب ICT للتداول الذكي</h2>
+    <p>كل ما تحتاج معرفته عن منهج ICT لتصبح متداولاً ناجحاً.</p>
+    <a href="https://payhip.com/yourproductlink2" class="buy-btn" target="_blank" rel="noopener">اشترِ الآن من Payhip</a>
+  </section>
+
+  <footer>
+    <p>تواصل معي: your.email@example.com | فيسبوك - تويتر - إنستغرام</p>
+  </footer>
+</body>
+</html>
